@@ -6,6 +6,8 @@
 ## Regression dataset
   https://www.kaggle.com/datasets/usdot/flight-delays
 
+The Household Power Consumption regression programs are in [`regression/power_consumption/`](regression/power_consumption/). See that folder's README for dataset setup and run instructions; the dataset file itself is not included.
+
 ## Clustering dataset
   https://www.kaggle.com/datasets/victorbonilla/beijing-multisite-airquality-data-data-set
 
